@@ -7,7 +7,7 @@ import Projects from './pages/Projects';
 
 function App () {
     return (
-        <BrowserRouter basename = {process.env.PUBLIC_URL}>
+        <BrowserRouter>
             <Routes>
                 <Route path = '/' element = {<Home />} />
                 <Route path = '/about' element = {<About />} />
