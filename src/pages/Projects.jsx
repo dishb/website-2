@@ -29,6 +29,17 @@ function Projects () {
                     ton of fun for me! We created a desktop application that used a public API to analyze images (taken with
                     the camera) for waste. The app would tell you whether to trash, compost, or recycle the waste.
                 </Project>
+                <Project name = '2024-website' link = 'https://dishb.vercel.app'>
+                    <Code>2024-website</Code> is the website you are currently on! I created it because I had been inspired by
+                    another website design. I wanted to go for a minimalistic, simple look. I also wanted to refresh myself on my
+                    web development skills, and what better way to do that than make a project? In this project, I also learned how
+                    to host with Vercel.
+                </Project>
+                <Project name = '2023-website' link = 'https://dishb-2023.vercel.app'>
+                    <Code>2023-website</Code> was my second personal website I'd ever made. I made this website for myself to showcase my projects
+                    while learning web development with React. I originally used Create-React-App, but then learned about
+                    ViteJS and began to use that instead. This website is a simple, one-page, responsive, personal portfolio.
+                </Project>
 
                 <LinkContainer rows = '1'>
                     <Link link = '/'>Home</Link> <Link link = '/'><Arrow /></Link>
