@@ -1,3 +1,3 @@
-# 2024-website
+# website-2
 
-My new personal website. Built using TailwindCSS and ReactJS, hosted by Vercel.
+A personal portfolio website design.
